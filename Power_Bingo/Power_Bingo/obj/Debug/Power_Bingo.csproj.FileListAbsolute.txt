@@ -1,0 +1,5 @@
+C:\Users\Brendan\Documents\Spring 2018 - CIS 3309\Lab Project 1 - Bingo\Power_Bingo\Power_Bingo\bin\Debug\Power_Bingo.exe.config
+C:\Users\Brendan\Documents\Spring 2018 - CIS 3309\Lab Project 1 - Bingo\Power_Bingo\Power_Bingo\obj\Debug\Power_Bingo.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\Documents\Spring 2018 - CIS 3309\Lab Project 1 - Bingo\Power_Bingo\Power_Bingo\obj\Debug\Power_Bingo.Properties.Resources.resources
+C:\Users\Brendan\Documents\Spring 2018 - CIS 3309\Lab Project 1 - Bingo\Power_Bingo\Power_Bingo\obj\Debug\Power_Bingo.csproj.GenerateResource.Cache
+C:\Users\Brendan\Documents\Spring 2018 - CIS 3309\Lab Project 1 - Bingo\Power_Bingo\Power_Bingo\obj\Debug\Power_Bingo.main.resources
